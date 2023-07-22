@@ -1,0 +1,4 @@
+Pre processing :
+remove black images
+crop images and resize
+check image classification imbalance
